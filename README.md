@@ -150,7 +150,7 @@ Decembra 1950. godine završena je izrada blokova aritmetičke jedinice i počel
 
 <center>
 	<figure>
-	    <img width=576 src="./img/acvm-m1_1.jpg">
+	    <img width=576 src="./img/acvm-m1_2.jpg">
 	    <figcaption>Slika 9. Digitalni računar M-1 u martu 1951. godine (pogled sa strane magnetnog doboša). <a href="#3">[3]</a></figcaption>
 	</figure>
 </center>
